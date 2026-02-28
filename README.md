@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Muhammad Syafii](img/github-header-banner.png)
 
 <!--
 **MasMuham24/MasMuham24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
